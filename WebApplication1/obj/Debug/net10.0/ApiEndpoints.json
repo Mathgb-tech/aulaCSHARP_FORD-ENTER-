@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "WebApplication1.Controllers.BoasVindasController",
+    "Method": "GetMensagemBoasVindas",
+    "RelativePath": "api/BoasVindas/Buscar_Boas-Vindas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.LivrosController",
+    "Method": "GetLivros",
+    "RelativePath": "api/Livros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
